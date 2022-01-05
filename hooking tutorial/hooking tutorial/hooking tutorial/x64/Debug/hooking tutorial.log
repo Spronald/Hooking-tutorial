@@ -1,0 +1,26 @@
+﻿  Main.cpp
+C:\Users\bkllo\source\repos\hooking tutorial\hooking tutorial\Main.cpp(13,43): warning C4311: 'type cast': pointer truncation from 'void *' to 'DWORD'
+C:\Users\bkllo\source\repos\hooking tutorial\hooking tutorial\Main.cpp(13,43): warning C4302: 'type cast': truncation from 'void *' to 'DWORD'
+C:\Users\bkllo\source\repos\hooking tutorial\hooking tutorial\Main.cpp(13,58): warning C4311: 'type cast': pointer truncation from 'void *' to 'DWORD'
+C:\Users\bkllo\source\repos\hooking tutorial\hooking tutorial\Main.cpp(13,58): warning C4302: 'type cast': truncation from 'void *' to 'DWORD'
+C:\Users\bkllo\source\repos\hooking tutorial\hooking tutorial\Main.cpp(16,26): warning C4311: 'type cast': pointer truncation from 'void *' to 'DWORD'
+C:\Users\bkllo\source\repos\hooking tutorial\hooking tutorial\Main.cpp(16,26): warning C4302: 'type cast': truncation from 'void *' to 'DWORD'
+C:\Users\bkllo\source\repos\hooking tutorial\hooking tutorial\Main.cpp(16,31): warning C4312: 'type cast': conversion from 'DWORD' to 'DWORD *' of greater size
+C:\Users\bkllo\source\repos\hooking tutorial\hooking tutorial\Main.cpp(26,16): error C2485: 'naked': unrecognized extended attribute
+C:\Users\bkllo\source\repos\hooking tutorial\hooking tutorial\Main.cpp(27,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\bkllo\source\repos\hooking tutorial\hooking tutorial\Main.cpp(28,3): error C2065: 'add': undeclared identifier
+C:\Users\bkllo\source\repos\hooking tutorial\hooking tutorial\Main.cpp(28,7): error C2146: syntax error: missing ';' before identifier 'ecx'
+C:\Users\bkllo\source\repos\hooking tutorial\hooking tutorial\Main.cpp(28,7): error C2065: 'ecx': undeclared identifier
+C:\Users\bkllo\source\repos\hooking tutorial\hooking tutorial\Main.cpp(28,12): error C2065: 'ecx': undeclared identifier
+C:\Users\bkllo\source\repos\hooking tutorial\hooking tutorial\Main.cpp(29,3): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\bkllo\source\repos\hooking tutorial\hooking tutorial\Main.cpp(29,3): error C2065: 'mov': undeclared identifier
+C:\Users\bkllo\source\repos\hooking tutorial\hooking tutorial\Main.cpp(29,7): error C2146: syntax error: missing ';' before identifier 'edx'
+C:\Users\bkllo\source\repos\hooking tutorial\hooking tutorial\Main.cpp(29,7): error C2065: 'edx': undeclared identifier
+C:\Users\bkllo\source\repos\hooking tutorial\hooking tutorial\Main.cpp(29,16): error C2143: syntax error: missing ']' before '-'
+C:\Users\bkllo\source\repos\hooking tutorial\hooking tutorial\Main.cpp(29,16): error C3481: 'ebp': lambda capture variable not found
+C:\Users\bkllo\source\repos\hooking tutorial\hooking tutorial\Main.cpp(29,16): error C3260: '-': skipping unexpected token(s) before lambda body
+C:\Users\bkllo\source\repos\hooking tutorial\hooking tutorial\Main.cpp(39,1): warning C4312: 'type cast': conversion from 'DWORD' to 'void *' of greater size
+C:\Users\bkllo\source\repos\hooking tutorial\hooking tutorial\Main.cpp(46,36): error C2065: 'param': undeclared identifier
+C:\Users\bkllo\source\repos\hooking tutorial\hooking tutorial\Main.cpp(51,1): error C2146: syntax error: missing ';' before identifier 'BOOL'
+C:\Users\bkllo\source\repos\hooking tutorial\hooking tutorial\Main.cpp(51,75): error C2601: 'DllMain': local function definitions are illegal
+C:\Users\bkllo\source\repos\hooking tutorial\hooking tutorial\Main.cpp(60,1): fatal error C1004: unexpected end-of-file found
